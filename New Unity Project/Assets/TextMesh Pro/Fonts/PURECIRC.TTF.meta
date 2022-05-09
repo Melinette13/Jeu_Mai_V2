@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bdf56816f32cbb04380a59cacb19ad38
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - purecircles
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10f5b255e7f10364bad016f5d415909c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
